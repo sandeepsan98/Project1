@@ -1,0 +1,143 @@
+body{
+    overflow: hidden;
+}
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: white;
+}
+#container{
+    background-color: rgb(235, 239, 245);
+    height: 825px;
+    margin:20px;
+    border-radius: 10px;
+}
+.logo{
+    margin-left: 130px;
+    margin-top: 45px;
+}
+ul a{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    color:rgb(96, 94, 94);
+    position: relative;
+    bottom:50px;
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-right: 320px;
+    
+}
+#sign{
+    border-color: hsl(255deg 43% 28%);
+    border: none;
+    border-radius: 5px;
+    width:160px;
+    height:60px;
+    background-color: hsl(255deg 43% 28%);
+    color:white;
+    font-size: 20px;
+}
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-right: 150px;
+    position: relative;
+    bottom:115px;
+}
+.paro0{
+    border:2px solid hsl(255deg 43% 28%) ;
+    border-radius: 20px;
+    width:500px;
+    height:35px;
+    margin-left:130px;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(255deg 43% 28%);
+    color:rgb(177, 180, 180);
+  position: relative;
+  padding-top: 10px;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-family:serif;
+
+}
+.more {
+    color:rgb(177, 180, 180);
+}
+h2{
+    margin-left: 130px;
+    margin-top: 20px; 
+    font-size: 60px;
+    color: rgb(52, 36, 68);
+   
+}
+.para{
+    margin-left:130px;
+    margin-left:130px;
+    font-size: 19px;
+    margin-top: 7px;
+    color:rgb(98, 103, 103);
+    line-height: 1.6;
+}
+.illus{
+    width:350px;
+    position: relative;
+    left:900px;
+    bottom: 335px;
+}
+#email{
+    position: relative;
+    bottom:370px;
+    border:1px solid white;
+    width:350px;
+    right:220px;
+    height:60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+#sign2{
+    border-color: hsl(255deg 43% 28%);
+    border:none;
+    border-radius: 5px;
+    width:160px;
+    height:60px;
+    background-color: hsl(255deg 43% 28%);
+    color:white;
+    font-size: 20px;
+    position: relative;
+    bottom:370px;
+    right:210px;
+    margin-top: 10px;
+}
+.last{
+    position: relative;
+    bottom:270px; 
+    margin-left: 130px;
+    font-size: 20px;
+    color: rgb(79, 79, 77);
+   font-family: serif;
+}
+.images{
+    position: relative;
+    bottom:250px;  
+    margin-left: 130px;
+    letter-spacing: 10px;
+   
+   
+}
+input[type="email"]::placeholder{
+    padding-left: 20px;
+    font-size: 17px;
+  
+} 
