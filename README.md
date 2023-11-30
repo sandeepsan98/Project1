@@ -7,3 +7,7 @@ This project is part of my ongoing journey to enhance my skills in web developme
 - **Title:** HTML CSS Practice - Project 1
 - **Technologies Used:** HTML, CSS
 - **Type:** Static Webpage Recreation
+
+## Link to page
+- View Page: https://sandeepsan98.github.io/Project1/
+
